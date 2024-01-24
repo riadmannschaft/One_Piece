@@ -97,7 +97,7 @@
 }
 .about .imgBx{
     width: 50%;
-    background: url('vivian/ventura.jpg');
+    background: url('vegan.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -222,7 +222,7 @@
 }
 .imgBx2{
     background-color: #162c3b;
-    background: url('vivian/juelz.jpg');
+    background: url('scorpion-removebg-preview.png');
     background-size:cover;
     background-position:center;
     width: 50%;
